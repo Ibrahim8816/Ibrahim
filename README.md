@@ -35,3 +35,5 @@ This project transforms raw sales and invoice data into an executive-level dashb
 ## Author
 Ibrahim Mohamed Abdel Fattah Khedr  
 📧 ibrahimkbedr123@gmail.com
+## Full Report
+📄 [View Full Sales Analysis Report (PDF)](https://drive.google.com/file/d/1yf31NFyJg6DHsUjhyhig1evMIcOxUNsA/view?usp=drivesdk)
