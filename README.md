@@ -1,2 +1,1 @@
-# Ibrahim
-"Interactive sales analytics dashboard built with Power BI"
+Sales Performance Dashboard – Power BI
